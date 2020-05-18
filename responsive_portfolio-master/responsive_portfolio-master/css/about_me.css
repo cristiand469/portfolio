@@ -1,0 +1,39 @@
+
+
+.banner{
+    position: relative;
+    background: url(../pics/blueoil.jpeg);
+    min-height: 100vh;
+    background-size: cover;
+    background-position: center;
+
+}
+
+}
+.navbar-light .navbar-toggler{
+    border:none;
+    color: #fff;
+    border: 2px solid #7f7f7f;
+    border-radius: 0;
+    outline: none;
+}
+.navbar-collapse{
+    background: #fff;
+}
+#title{
+    margin:0;
+    padding:0;
+    font-size:2.8em;
+    font-weight:1000 ;
+    color: #262626;
+    text-transform: uppercase;
+    text-align: center;
+}
+#sidebar{
+    height: 480px;
+    width: ;
+    text-align: center;
+}
+#main_contain{
+    height: 480px;
+}
